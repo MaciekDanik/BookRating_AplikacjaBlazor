@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5qTxcOEtyK7M3PK/m6u5If1HXJwl9+F7IfwPILx+0+4RbJchIE+AgxMRsYxQtY04CaphyC+HE3UGyOu8pmNkdQ==",
+  "success": true,
+  "projectFilePath": "S:\\MyFiles\\Studia\\Sem6\\NET_Java\\Lab4_Blazor\\Zad1_PoznanieBlazora\\Blazor_Zad1\\Blazor_Zad1\\Blazor_Zad1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\8.0.4\\microsoft.aspnetcore.authentication.certificate.8.0.4.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
